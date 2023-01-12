@@ -1,0 +1,63 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;;
+}
+
+.logo {
+    width:250px;
+}
+
+.user-avatar {
+    width:100px;
+    border-radius:50%;
+    margin: 30px 15px;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid #d3d3d3;
+}
+
+.header {
+    display: flex;
+    
+}
+
+.post .header {
+    display: flex;
+    justify-content: start;
+}
+
+.post .avatar {
+    width: 40px;
+    border-radius:50%;
+    margin: 15px;
+    
+}
+
+.name {
+   margin-bottom: 0;
+   font-weight: bold;
+}
+
+.name1 {
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-left:15px;
+    font-weight: bold;
+ }
+
+.location {
+    margin: 0;
+}
+.post .img {
+    width: 100%;
+    margin: 20px 0;
+}
+
+.icons {
+    width:50px;
+    margin: 0 15px;
+}
