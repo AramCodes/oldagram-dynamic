@@ -61,3 +61,7 @@ html, body {
     width:50px;
     margin: 0 15px;
 }
+
+.icons:hover {
+    opacity: .6;
+}
